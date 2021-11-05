@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Selenium Test Suite]">
+  <parameter name="cloud" value="false"/>
+  <parameter name="envName" value="browserstack"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="latest"/>
+  <parameter name="platform" value="Windows"/>
+  <parameter name="url" value="https://www.ebay.com"/>
+  <test thread-count="5" verbose="0" name="Automation tests(failed)">
+    <classes>
+      <class name="com.ebayTest.HomePageValidation">
+        <methods>
+          <include name="startExtent"/>
+          <include name="afterEachTestMethod"/>
+          <include name="extentSetup"/>
+          <include name="cleanUp"/>
+          <include name="generateReport"/>
+          <include name="setupDriver"/>
+          <include name="userBeingAbleToLLogin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.ebayTest.HomePageValidation -->
+    </classes>
+  </test> <!-- Automation tests(failed) -->
+</suite> <!-- Failed suite [Selenium Test Suite] -->
