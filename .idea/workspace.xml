@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf829f0-02db-49e6-9cc8-04d946e929a3" name="Default Changelist" comment="" />
+    <list default="true" id="acf829f0-02db-49e6-9cc8-04d946e929a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/Report/AutomationReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/screenshots/validateCreateAccountFormContentIsBeingDisplayed 10_41_52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/screenshots/validateCreateAccountFormContentIsBeingDisplayed 10_50_00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/screenshots/validateCreateAccountFormContentIsBeingDisplayed 22_49_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/Report/AutomationReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 00_01_26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 00_02_59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 00_05_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 14_15_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 14_20_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_22_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_22_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_23_08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_30_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 23_59_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/validateAdvanceSearch 13_42_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/screenshots/validateAdvanceSearch 14_04_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/test/java/com/ebayTest/HomePageValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/com/ebayTest/HomePageValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/data/DataProviders.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/com/ebay/data/DataProviders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/com/ebayTest/HomePageValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/com/ebayTest/HomePageValidation.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +51,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1z5h1xWXOnAJefRFut250IWYqsJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Generic/src/main/java/com/pnt" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
@@ -32,18 +62,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test\resources" />
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test" />
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\Generic\src\main\com.pnt" />
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\ebay\src\test" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.pnt" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\Generic\src\main\resources" />
       <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test\resources" />
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test" />
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\Generic\src\main\com.pnt" />
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\ebay\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/amazon/src/test/resources/amazonRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/ebay/src/test/resources/ebayRunner.xml">
     <configuration name="C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/amazon/src/test/resources/amazonRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="amazon" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/amazon/src/test/resources/amazonRunner.xml" />
@@ -79,8 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/ebay/src/test/resources/ebayRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ebay/src/test/resources/ebayRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/ebay/src/test/resources/ebayRunner.xml" />
         <item itemvalue="TestNG.C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/amazon/src/test/resources/amazonRunner.xml" />
         <item itemvalue="TestNG.C:/Users/13135/IdeaProjects/WebAutomation_2ndInnings/ebay/src/test/resources/Runner.xml" />
       </list>
@@ -98,5 +139,16 @@
       <updated>1633443644144</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

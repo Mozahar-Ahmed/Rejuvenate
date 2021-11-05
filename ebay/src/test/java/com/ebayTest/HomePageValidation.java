@@ -31,7 +31,7 @@ public class HomePageValidation extends TestBase {
         homePage.clickOnAdvanceSearch();
     }
 
-    @Test(dataProviderClass = DataProviders.class, dataProvider = "credentials")
+    @Test(dataProviderClass = DataProviders.class, dataProvider = "credentials", enabled = false)
     public void userBeingAbleToLLogin(String userid, String userPassword) {
         HomePage homePage = PageFactory.initElements(driver, HomePage.class);
         LoginPage loginPage = PageFactory.initElements(driver, LoginPage.class);
