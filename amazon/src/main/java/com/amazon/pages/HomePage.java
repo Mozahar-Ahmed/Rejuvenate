@@ -1,10 +1,10 @@
 package com.amazon.pages;
 
 import base.TestBase;
+import extent.ExtentTestManager;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
-import report.ExtentTestManager;
 
 public class HomePage {
     @FindBy(id = "nav-link-accountList")

@@ -1,12 +1,12 @@
 package com.amazon.pages;
 
 import base.TestBase;
+import extent.ExtentTestManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
-import report.ExtentTestManager;
 
 public class CreateAccountPage {
     Logger LOGGER = Logger.getLogger(CreateAccountPage.class);

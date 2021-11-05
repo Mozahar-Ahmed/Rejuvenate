@@ -2,30 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf829f0-02db-49e6-9cc8-04d946e929a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon/Report/AutomationReport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon/screenshots/validateCreateAccountFormContentIsBeingDisplayed 10_41_52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon/screenshots/validateCreateAccountFormContentIsBeingDisplayed 10_50_00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon/screenshots/validateCreateAccountFormContentIsBeingDisplayed 22_49_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/CreateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/CreateAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/src/main/java/com/amazon/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/target/classes/com/amazon/pages/CreateAccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/target/classes/com/amazon/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/target/log/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/target/test-classes/amazonRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/target/test-classes/testpages/CreateAccountPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/target/test-classes/testpages/HomePageTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/Report/AutomationReport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 00_01_26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 00_02_59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 00_05_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 14_15_18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 14_20_41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_22_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_22_40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_23_08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 22_30_47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/userBeingAbleToLLogin 23_59_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/validateAdvanceSearch 13_42_06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/screenshots/validateAdvanceSearch 14_04_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/src/main/java/com/ebay/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/main/java/com/ebay/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay/src/test/java/com/ebayTest/HomePageValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/src/test/java/com/ebayTest/HomePageValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/data/DataProviders.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/com/ebay/data/DataProviders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/com/ebayTest/HomePageValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/ebay/target/test-classes/com/ebayTest/HomePageValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/data/DataProviders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/classes/com/ebay/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/log/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/Selenium Test Suite/Automation tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/Selenium Test Suite/Automation tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/Selenium Test Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/junitreports/TEST-com.ebayTest.HomePageValidation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/Automation tests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/Selenium Test Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/com/ebayTest/HomePageValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebay/target/test-classes/ebayRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/java/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/java/report/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/extent/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/java/report/ExtentTestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/extent/ExtentTestManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/src/main/resources/report-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/resources/report-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/base/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/geckodriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/report-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/report/ExtentManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/classes/report/ExtentTestManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,18 +113,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test\resources" />
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test" />
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\Generic\src\main\com.pnt" />
-      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\ebay\src\test" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.pnt" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\Generic\src\main\resources" />
       <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test\resources" />
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\amazon\src\test" />
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\Generic\src\main\com.pnt" />
+      <recent name="C:\Users\13135\IdeaProjects\WebAutomation_2ndInnings\ebay\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,7 +196,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

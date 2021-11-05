@@ -43,7 +43,7 @@
             <artifactId>mongodb-driver</artifactId>
         </dependency>
 
-        <!--Extent report-->
+        <!--Extent extent-->
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
