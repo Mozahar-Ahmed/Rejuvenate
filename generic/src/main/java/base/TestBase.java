@@ -2,6 +2,8 @@ package base;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.LogStatus;
+import extent.ExtentManager;
+import extent.ExtentTestManager;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
@@ -14,8 +16,6 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-import report.ExtentManager;
-import report.ExtentTestManager;
 
 import java.io.File;
 import java.io.PrintWriter;

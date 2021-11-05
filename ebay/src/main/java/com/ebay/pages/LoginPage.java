@@ -1,8 +1,8 @@
 package com.ebay.pages;
 
+import extent.ExtentTestManager;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import report.ExtentTestManager;
 
 public class LoginPage {
     @FindBy(id = "switch-account-anchor")

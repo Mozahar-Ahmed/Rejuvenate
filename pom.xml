@@ -55,7 +55,7 @@
                 <version>3.4.0</version>
             </dependency>
 
-            <!--Extent report-->
+            <!--Extent extent-->
             <dependency>
                 <groupId>com.aventstack</groupId>
                 <artifactId>extentreports</artifactId>

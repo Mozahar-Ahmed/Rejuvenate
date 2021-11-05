@@ -4,9 +4,9 @@ import base.TestBase;
 import com.ebay.data.DataProviders;
 import com.ebay.pages.HomePage;
 import com.ebay.pages.LoginPage;
+import extent.ExtentTestManager;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
-import report.ExtentTestManager;
 
 public class HomePageValidation extends TestBase {
 
